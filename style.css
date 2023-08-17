@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+    line-height: 1.4;
+    text-align: center;
+    background-color: rgb(165, 161, 161);
+  } 
+  h1{
+    font-family:cursive;
+    text-align: center;
+    padding: 20px; 
+  }
+  .container {
+    display: inline-block;
+    background-color: whitesmoke;
+    width: 300px;
+    margin: 20px;
+    font-size: 12px;
+    box-shadow: -15px 27px 53px -8px rgba(0, 0, 0, 0.219);
+    box-shadow: -15px 27px 53px -8px rgba(0, 0, 0, 0.322);
+    box-shadow: -15px 27px 53px -8px rgba(0, 0, 0, 0.26);
+    font-family: 'Abel', sans-serif;
+  }
+  
+ h2{
+    font-size: 50px;
+    color:whitesmoke
+ }
